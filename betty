@@ -1,0 +1,7 @@
+/*Simple shell project*/
+#include <stdio.h>
+int main ()
+{
+	printf("Pass the Betty Test");
+	return(0);
+}
